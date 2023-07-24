@@ -21,7 +21,7 @@
   "portalUrl": "https://mohawkarcgis.maps.arcgis.com",
   "appId": "",
   "authorizedCrossOriginDomains": [],
-  "title": "Assigment 4 Map",
+  "title": "Assignment 4 Map",
   "subtitle": "with ArcGIS Web AppBuilder",
   "keepAppState": true,
   "logo": "images/app-logo.png",
@@ -218,7 +218,8 @@
         "uri": "widgets/PopupPanel/Widget",
         "config": "configs/PopupPanel/config_widgets_PopupPanel_Widget_32.json",
         "index": 3,
-        "id": "widgets_PopupPanel_Widget_32"
+        "id": "widgets_PopupPanel_Widget_32",
+        "openAtStart": true
       },
       {
         "name": "Bookmark",
@@ -226,8 +227,7 @@
         "uri": "widgets/Bookmark/Widget",
         "config": "configs/Bookmark/config_widgets_Bookmark_Widget_33.json",
         "index": 4,
-        "id": "widgets_Bookmark_Widget_33",
-        "openAtStart": false
+        "id": "widgets_Bookmark_Widget_33"
       }
     ],
     "groups": []
